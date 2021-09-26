@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d2dcc94.chunk.css",
+    "main.js": "/static/js/main.df1bd73e.chunk.js",
+    "main.js.map": "/static/js/main.df1bd73e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53833f14.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53833f14.js.map",
+    "static/js/2.26a98694.chunk.js": "/static/js/2.26a98694.chunk.js",
+    "static/js/2.26a98694.chunk.js.map": "/static/js/2.26a98694.chunk.js.map",
+    "static/js/3.36d49573.chunk.js": "/static/js/3.36d49573.chunk.js",
+    "static/js/3.36d49573.chunk.js.map": "/static/js/3.36d49573.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2d2dcc94.chunk.css.map": "/static/css/main.2d2dcc94.chunk.css.map",
+    "static/js/2.26a98694.chunk.js.LICENSE.txt": "/static/js/2.26a98694.chunk.js.LICENSE.txt",
+    "static/js/3.36d49573.chunk.js.LICENSE.txt": "/static/js/3.36d49573.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/static/media/Meelo_Evaru_Koteeswarudu-modified.99aa3798.png",
+    "static/media/correct.160572d7.mp3": "/static/media/correct.160572d7.mp3",
+    "static/media/paly.8e5f6d1d.mp3": "/static/media/paly.8e5f6d1d.mp3",
+    "static/media/wait.30e329da.mp3": "/static/media/wait.30e329da.mp3",
+    "static/media/wrong.e9468218.mp3": "/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53833f14.js",
+    "static/js/2.26a98694.chunk.js",
+    "static/css/main.2d2dcc94.chunk.css",
+    "static/js/main.df1bd73e.chunk.js"
+  ]
+}
